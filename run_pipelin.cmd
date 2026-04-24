@@ -1,6 +1,6 @@
 @echo off
 echo Running Asset Health Check Pipeline...
-python asset_checker.py
+python checker.py
 echo.
 echo Pipeline finished.
 pause
